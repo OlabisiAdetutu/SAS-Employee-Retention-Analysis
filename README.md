@@ -1,8 +1,7 @@
 # SAS-Employee-Retention-Analysis
 
-#  HR Analytics with SAS
 
-This project explores an HR dataset using SAS to uncover insights about employee satisfaction, turnover, and workplace patterns.
+This project utilizes an HR dataset in SAS to uncover insights into employee satisfaction, turnover, and workplace patterns.
 
 ---
 
@@ -78,3 +77,41 @@ The dataset consists of 10 columns related to employee behavior and status:
 
 ##  Project Structure
 
+
+HR-Analytics-SAS/
+├── data/
+│   └── HR_comma_sep.csv             # Original HR dataset (CSV format)
+│
+├── code/
+│   └── HR_dataset_cleaned.sas       # Main SAS analysis script (well-structured)
+│
+├── README.md                        # Project overview and documentation
+
+
+
+
+
+
+
+
+
+
+---
+
+##  Author
+
+**Adetutu Olabisi**  
+MSc Data Science  
+ Based in the UK |  Originally from Nigeria  
+ | [LinkedIn](linkedin.com/in/adetutu-olabisi)
+
+---
+
+##  License
+
+This project is provided for educational and academic use only.  
+Please do not use this dataset for commercial applications.
+
+---
+
+> _“Without data, you're just another person with an opinion.” – W. Edwards Deming_
